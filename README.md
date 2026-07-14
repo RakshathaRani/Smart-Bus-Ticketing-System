@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Smart Bus Ticketing & Reservation System Banner" width="100%">
+</p>
 # 🚌 Smart Bus Ticketing & Reservation System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
