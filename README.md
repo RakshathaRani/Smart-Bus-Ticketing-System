@@ -378,7 +378,7 @@ This repository has been created only to demonstrate:
 
 📧 ranirakshatha@gmail.com
 
-🔗 LinkedIn: YOUR_LINKEDIN_PROFILE_LINK
+🔗 LinkedIn:https://www.linkedin.com/in/rakshatha-rani-90a11a2a3/
 
 ---
 
