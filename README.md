@@ -151,7 +151,7 @@ Registered users can securely log into the application.
 
 Users search for buses by selecting the departure and destination cities.
 
-![Search Buses](screenshots/search-bus.png)
+![Search Buses](screenshots/Search-bus.png)
 
 ---
 
