@@ -1,4 +1,4 @@
-# 🚌 Smart Bus Ticketing & Reservation System
+# 🚌 Smart-Bus-Ticketing-Reservation-System
 
 > **BCA Final Year Project (Completed: August 2024)**
 
